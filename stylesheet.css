@@ -1,0 +1,104 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.b{
+    width: 70%;
+    height: 36.2em;
+    margin: auto;   
+}
+
+header{
+    width: 100%;
+    height: 3em;
+    border-bottom: 1px solid silver;
+}
+
+.h1{
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+.ha1{
+    float: left;
+    height: 85%;
+    padding: 7px 10px 0 10px;
+}
+
+.ha2{
+    height:75%;
+    padding: 12px 0 0 5px;
+    font-size: 20px;
+}
+
+.h2{
+    height: 100%;
+    
+
+}
+
+.hb2{
+    height: 65%;
+    float: right;
+    padding: 16px 2px 0 0;
+    font-size: 15px;
+    
+}
+
+.hb1{
+    height: 85%;
+    float: right;
+    padding: 6px 15px 0 8px;
+}
+
+#circle{
+    height:35px;
+     width: 35px;
+      background-color:silver;
+      border-radius: 50%; 
+      float: right;
+}
+
+nav{
+    width: 5.899%;
+    height: 91.599%;
+    background-color: #39aca7;
+    
+}
+
+section{
+    width: 94.1%;
+    float: right;
+    position: relative;
+    top: -91.69%;
+    height: 91.5%;
+}
+
+.s1{
+    width: 100%;
+    height: 6%;
+    border-bottom: 3px solid silver;
+}
+
+.sa1{
+    float: left;
+    width: 45%;
+    font-size: 15px;
+    padding: 8px 0 0 15px;
+    flood-color: rgb(209, 200, 200);
+}
+
+.sa2{
+    float: right;
+    width: 50%;
+   text-align: end;
+   padding: 10px 20px 0 0;
+   font-size: 12px;
+
+
+   
+
+}
